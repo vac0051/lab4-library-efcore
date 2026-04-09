@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Library.Data/Library.Data.csproj" />
+  <Project Path="Library.EfConsole/Library.EfConsole.csproj" />
+</Solution>
